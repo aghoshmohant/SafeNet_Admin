@@ -22,3 +22,7 @@ img{
 .box{
     display: flex;
 }
+
+.btn{
+    margin-top: 10px;
+}
